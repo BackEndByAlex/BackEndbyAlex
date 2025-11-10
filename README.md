@@ -22,7 +22,7 @@
   <li>
     <strong><a href="https://github.com/BackEndByAlex/auth-portal">Auth-Portal</a></strong>
     <br>
-    <em>A front-end application demonstrating a complete user authentication flow.</em>
+    <em>A front-end application demonstrating a user authentication flow with help of token-auth model.</em>
   </li>
   <li>
     <strong><a href="https://github.com/BackEndByAlex/token-auth">Token-Auth Service</a></strong>
