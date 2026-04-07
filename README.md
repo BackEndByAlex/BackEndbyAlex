@@ -9,30 +9,6 @@
 
 <hr>
 
-<h3>Projects</h3>
-<p>
-  Here are some of the projects I've built during my education:
-</p>
-<ul>
-  <li>
-    <strong><a href="https://github.com/BackEndByAlex/Timelock">Timelock</a></strong>
-    <br>
-    <em>A full-stack password manager with a microservice architecture, Node.js, and JWT.</em>
-  </li>
-  <li>
-    <strong><a href="https://github.com/BackEndByAlex/auth-portal">Auth-Portal</a></strong>
-    <br>
-    <em>A front-end application demonstrating a user authentication flow with help of token-auth model.</em>
-  </li>
-  <li>
-    <strong><a href="https://github.com/BackEndByAlex/token-auth">Token-Auth Service</a></strong>
-    <br>
-    <em>A backend REST API service module for handling user registration and issuing JWTs.</em>
-  </li>
-</ul>
-
-<hr>
-
 <h3>Tech Stack & Tools I've Learned</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
