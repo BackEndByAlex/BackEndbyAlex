@@ -3,8 +3,8 @@
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend-leaning%2C+full-stack+capable;Graph
-  QL+%C2%B7+Prisma+%C2%B7+PostgreSQL+%C2%B7+Elasticsearch;React+%C2%B7+Three.js+%C2%B7+TypeScript;Open+to+work" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend-leaning%2C+full-stack+capable;Grap
+  hQL+%C2%B7+Prisma+%C2%B7+PostgreSQL;React+%C2%B7+Three.js+%C2%B7+TypeScript;Open+to+work" alt="Typing SVG" />
     </a>
   </p>
 
@@ -18,15 +18,33 @@
 
   ### 🪨  Projects
 
-  | Project | Description | Links |
-  |---|---|---|
-  | **salaryscope-api** | GraphQL API — 137k+ salary records. Apollo Server, Prisma, PostgreSQL, Elasticsearch, OAuth 2.0 PKCE, JWT. |
-  [GitHub](https://github.com/BackEndByAlex/salaryscope-api) · [Live](https://backendbyalex.nu/graphql) |
-  | **salaryscope-wt** | Salary insights dashboard. Interactive globe (MapLibre), Apollo Client, filters across 137k data points. | [GitHub](https://github.com/BackEndByAlex/salaryscope-wt)
-  · [Live](https://backendbyalex.nu) |
-  | **carved** | Scroll-driven 3D portfolio. Camera flies through a procedural cave — Three.js, R3F, GSAP, Lenis. | [GitHub](https://github.com/BackEndByAlex/carved) ·
-  [Live](https://backendbyalex.se) |
-  | **token-auth** | Standalone JWT auth service — refresh token rotation, RBAC, secure HttpOnly cookies. | [GitHub](https://github.com/BackEndByAlex/token-auth) |
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+    <tr>
+      <td><b>salaryscope-api</b></td>
+      <td>GraphQL API — 137k+ salary records. Apollo Server, Prisma, PostgreSQL, Elasticsearch, OAuth 2.0 PKCE, JWT.</td>
+      <td nowrap><a href="https://github.com/BackEndByAlex/salaryscope-api">GitHub</a> · <a href="https://backendbyalex.nu/graphql">Live</a></td>
+    </tr>
+    <tr>
+      <td><b>salaryscope-wt</b></td>
+      <td>Salary insights dashboard. Interactive globe (MapLibre), Apollo Client, filters across 137k data points.</td>
+      <td nowrap><a href="https://github.com/BackEndByAlex/salaryscope-wt">GitHub</a> · <a href="https://backendbyalex.nu">Live</a></td>
+    </tr>
+    <tr>
+      <td><b>carved</b></td>
+      <td>Scroll-driven 3D portfolio. Camera flies through a procedural cave — Three.js, R3F, GSAP, Lenis.</td>
+      <td nowrap><a href="https://github.com/BackEndByAlex/carved">GitHub</a> · <a href="https://backendbyalex.se">Live</a></td>
+    </tr>
+    <tr>
+      <td><b>token-auth</b></td>
+      <td>Standalone JWT auth service — refresh token rotation, RBAC, secure HttpOnly cookies.</td>
+      <td nowrap><a href="https://github.com/BackEndByAlex/token-auth">GitHub</a></td>
+    </tr>
+  </table>
 
   ---
 
@@ -54,7 +72,8 @@
 
   <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=BackEndByAlex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    &nbsp;
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndByAlex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
   </p>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>****
