@@ -1,71 +1,60 @@
-<h1>
-    Hi there! I'm Alexandru
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  </h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Alexandru%20C.A&fontSize=48&fontColor=fff&animat
+  ion=fadeIn&fontAlignY=38&desc=Web%20Developer%20Student%20%C2%B7%20Kalmar%2C%20Sweden&descAlignY=60&descAlign=50"/>
 
-  <p>
-    I'm a second-year web development student at <a href="https://lnu.se">Linnéuniversitetet</a> in Kalmar, Sweden.
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend-leaning%2C+full-stack+capable;Graph
+  QL+%C2%B7+Prisma+%C2%B7+PostgreSQL+%C2%B7+Elasticsearch;React+%C2%B7+Three.js+%C2%B7+TypeScript;Open+to+work" alt="Typing SVG" />
+    </a>
   </p>
 
-  <p>
-    🌍 <b>Portfolio:</b> <a href="https://backendbyalex.se">backendbyalex.se</a>
+  <p align="center">
+    <a href="https://backendbyalex.se">🌍 Portfolio</a> &nbsp;·&nbsp;
+    <a href="https://linkedin.com/in/alexandru-ca/">💼 LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:alexsept100@gmail.com">✉️  Email</a>
   </p>
 
-  <hr>
+  ---
 
-  <h3>Projects</h3>
+  ### 🪨  Projects
 
-  <table>
-    <tr>
-      <td><b>salaryscope-api</b></td>
-      <td>GraphQL API serving 137k+ salary records. Apollo Server, Prisma, PostgreSQL, Elasticsearch, OAuth 2.0 PKCE, JWT.</td>
-      <td>
-        <a href="https://github.com/BackEndByAlex/salaryscope-api">GitHub</a> ·
-        <a href="https://backendbyalex.nu/graphql">Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>salaryscope-wt</b></td>
-      <td>Salary insights dashboard. Interactive globe with MapLibre, Apollo Client, filters across 137k data points.</td>
-      <td>
-        <a href="https://github.com/BackEndByAlex/salaryscope-wt">GitHub</a> ·
-        <a href="https://backendbyalex.nu">Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>carved</b></td>
-      <td>Scroll-driven 3D portfolio. Camera flies through a cave built with Three.js, R3F, GSAP, and Lenis.</td>
-      <td>
-        <a href="https://github.com/BackEndByAlex/carved">GitHub</a> ·
-        <a href="https://backendbyalex.se">Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>token-auth</b></td>
-      <td>Standalone JWT auth service — refresh token rotation, RBAC, secure HttpOnly cookies.</td>
-      <td>
-        <a href="https://github.com/BackEndByAlex/token-auth">GitHub</a>
-      </td>
-    </tr>
-  </table>
+  | Project | Description | Links |
+  |---|---|---|
+  | **salaryscope-api** | GraphQL API — 137k+ salary records. Apollo Server, Prisma, PostgreSQL, Elasticsearch, OAuth 2.0 PKCE, JWT. |
+  [GitHub](https://github.com/BackEndByAlex/salaryscope-api) · [Live](https://backendbyalex.nu/graphql) |
+  | **salaryscope-wt** | Salary insights dashboard. Interactive globe (MapLibre), Apollo Client, filters across 137k data points. | [GitHub](https://github.com/BackEndByAlex/salaryscope-wt)
+  · [Live](https://backendbyalex.nu) |
+  | **carved** | Scroll-driven 3D portfolio. Camera flies through a procedural cave — Three.js, R3F, GSAP, Lenis. | [GitHub](https://github.com/BackEndByAlex/carved) ·
+  [Live](https://backendbyalex.se) |
+  | **token-auth** | Standalone JWT auth service — refresh token rotation, RBAC, secure HttpOnly cookies. | [GitHub](https://github.com/BackEndByAlex/token-auth) |
 
-  <hr>
+  ---
 
-  <h3>Tech Stack & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-    <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  ### 🛠 Tech Stack
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
+
+  ---
+
+  ### 📊 Stats
+
+  <p align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=BackEndByAlex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndByAlex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  </p>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
