@@ -1,11 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Alexandru%20C.A&fontSize=48&fontColor=fff&animat
-  ion=fadeIn&fontAlignY=38&desc=Web%20Developer%20Student%20%C2%B7%20Kalmar%2C%20Sweden&descAlignY=60&descAlign=50"/>
+<h1 align="center">Hi, I'm Alexandru C.A 👋</h1>
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend-leaning%2C+full-stack+capable;Grap
-  hQL+%C2%B7+Prisma+%C2%B7+PostgreSQL;React+%C2%B7+Three.js+%C2%B7+TypeScript;Open+to+work" alt="Typing SVG" />
-    </a>
+    Second-year web development student at <a href="https://lnu.se">Linnéuniversitetet</a>, Kalmar, Sweden.<br/>
+    Backend-leaning · full-stack capable · open to work
   </p>
 
   <p align="center">
@@ -65,15 +62,3 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
-
-  ---
-
-  ### 📊 Stats
-
-  <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=BackEndByAlex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    &nbsp;
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndByAlex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  </p>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>****
