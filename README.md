@@ -7,6 +7,10 @@
   I'm a second-year web development student at <a href="https://lnu.se">Linnéuniversitetet</a> in Kalmar, Sweden.
 </p>
 
+<p>
+  🌍 <b>Portfolio:</b> <a href="https://backendbyalex.se">backendbyalex.se</a>
+</p>
+
 <hr>
 
 <h3>Tech Stack & Tools I've Learned</h3>
