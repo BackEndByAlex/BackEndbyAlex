@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://backendbyalex.se">🌍 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/alexandru-ca/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/alexandru-ca/">💼 LinkedIn</a> &nbsp;
 </p>
 
 ---
