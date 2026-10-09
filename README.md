@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  2nd year Web Dev student at <a href="https://lnu.se">Linnéuniversitetet</a>, Kalmar, Sweden<br/>
+  3nd year Web Dev student at <a href="https://lnu.se">Linnéuniversitetet</a>, Kalmar, Sweden<br/>
 </p>
 
 <p align="center">
